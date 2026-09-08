@@ -1,0 +1,6 @@
+# robots.txt for https://technochemofficial.com/
+User-agent: *
+Disallow: /cgi-bin/
+
+# Sitemap
+Sitemap: https://technochemofficial.com/sitemap.xml
